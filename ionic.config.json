@@ -1,0 +1,7 @@
+{
+  "name": "monApplication",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
