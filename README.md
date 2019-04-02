@@ -2,9 +2,9 @@
 
 ## Géolocalisation
 
-Dans la page settings, on va ajouter un nouveau bouton "Me géolocaliser".
-Au clic, on devra utiliser un module Ionic Geolocation https://ionicframework.com/docs/native/geolocation.
-Grâce au module, on récupére la latitude et la longitude de l'utilisateur.
-Pour récupérer la ville de l'utilisateur, on fera une requête sur l'API :
+Dans la page settings, bouton "Me géolocaliser".
+Au clic, utilisation du module Ionic Geolocation https://ionicframework.com/docs/native/geolocation.
+Grâce au module, récupération de la latitude et la longitude de l'utilisateur.
+Pour récupérer la ville de l'utilisateur, requête sur l'API :
 - https://api-adresse.data.gouv.fr/reverse/?lat=XXXX&lon=XXXXXX
-On pourra donc ensuite enregistrer la ville dans le storage.
+Donc possible enregistrement de la ville dans le storage.
